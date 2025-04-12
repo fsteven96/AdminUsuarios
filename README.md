@@ -7,6 +7,9 @@ Este proyecto es una API en .NET 9 con Entity Framework Core para gestionar usua
 - .NET SDK **9.0.100**
 - Node.js **v20.13.1**
 - Entity Framework Core
+- SQL Server
+- React
+- React Material (para los componentes de la interfaz)
 
 ## ⚙️ Pasos para ejecutar el proyecto
 
