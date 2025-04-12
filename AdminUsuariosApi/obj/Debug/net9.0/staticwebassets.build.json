@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "t1NshARm/fapbQleewWCtnRsxI0EuWmKa8aWqTPZ4YM=",
+  "Source": "AdminUsuariosApi",
+  "BasePath": "_content/AdminUsuariosApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

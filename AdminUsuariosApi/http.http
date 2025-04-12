@@ -1,0 +1,26 @@
+# Obtener la lista de usuarios
+GET http://localhost:5012/api/admin/usuarios
+# Crear un nuevo usuario
+###
+
+GET http://localhost:5012/api/admin/departamentos
+# Crear un nuevo usuario
+###
+
+GET http://localhost:5012/api/admin/usuarios
+# Crear un nuevo usuario
+###
+POST http://localhost:5012/api/admin/usuarios
+Content-Type: application/json
+
+{
+  "usuario": "steperez123",            
+  "PrimerNombre": "ste",
+  "SegundoNombre": "fal",
+  "PrimerApellido": "stevwe",
+  "SegundoApellido": "González",
+
+  "IdDepartamento": 1,
+  "IdCargo": 1
+}
+
